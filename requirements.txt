@@ -1,7 +1,9 @@
-
-streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
-tensorflow-cpu==2.16.1
+streamlit==1.39.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+matplotlib==3.8.4
+tensorflow-cpu==2.15.0
+protobuf==4.25.3
+grpcio==1.62.2
+h5py==3.10.0
